@@ -11,6 +11,7 @@
 		1634E0A325D98A68005964B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1634E0A225D98A68005964B5 /* ContentView.swift */; };
 		1634E0A525D98A69005964B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1634E0A425D98A69005964B5 /* Assets.xcassets */; };
 		1634E0A825D98A69005964B5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1634E0A725D98A69005964B5 /* Preview Assets.xcassets */; };
+		1634E0B225D9B7E4005964B5 /* RegistrationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1634E0B125D9B7E4005964B5 /* RegistrationViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1634E0A425D98A69005964B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1634E0A725D98A69005964B5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1634E0A925D98A69005964B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1634E0B125D9B7E4005964B5 /* RegistrationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1634E0A025D98A68005964B5 /* Vista_de_registroApp.swift */,
 				1634E0A225D98A68005964B5 /* ContentView.swift */,
+				1634E0B125D9B7E4005964B5 /* RegistrationViewModel.swift */,
 				1634E0A425D98A69005964B5 /* Assets.xcassets */,
 				1634E0A925D98A69005964B5 /* Info.plist */,
 				1634E0A625D98A69005964B5 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1634E0A325D98A68005964B5 /* ContentView.swift in Sources */,
+				1634E0B225D9B7E4005964B5 /* RegistrationViewModel.swift in Sources */,
 				1634E0A125D98A68005964B5 /* Vista_de_registroApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
