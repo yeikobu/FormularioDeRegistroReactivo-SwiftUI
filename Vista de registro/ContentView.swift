@@ -72,7 +72,7 @@ struct ContentView: View {
                     //To do
                 }, label: {
                     Text("¿Ya tienes cuenta?")
-                        .foregroundColor(.gray)
+                        .foregroundColor(Color(red: 10/255, green: 170/255, blue: 150/255))
                 })
                 .padding(.top, 10)
             }
